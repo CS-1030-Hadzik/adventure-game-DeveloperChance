@@ -6,3 +6,7 @@
 # Index
 print("Welcome to the Adventure Game!")
 print("Your journey begins here...")
+
+# Player Name
+playerName = input("Adventurer, what is your name? ")
+print("Your journey begins now, " + playerName + "!")
